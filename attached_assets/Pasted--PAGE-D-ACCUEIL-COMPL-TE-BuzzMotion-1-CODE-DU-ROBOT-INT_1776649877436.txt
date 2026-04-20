@@ -1,0 +1,229 @@
+# 🔥 PAGE D’ACCUEIL COMPLÈTE — BuzzMotion
+
+---
+
+## 🧠 1. CODE DU ROBOT (À INTÉGRER)
+
+import Spline from '@splinetool/react-spline/next';
+
+export default function Home() {
+
+  return (
+
+    <main>
+
+      <Spline
+
+        scene="https://prod.spline.design/TUd3T7KoBnSoUhAf/scene.splinecode" 
+
+      />
+
+    </main>
+
+  );
+
+}
+
+https://prod.spline.design/TUd3T7KoBnSoUhAf/scene.splinecode
+
+---
+
+## 🎨 2. HERO (BANNIÈRE)
+
+**Titre :**
+Arrêtez de perdre des clients à cause d’un mauvais digital.
+
+**Sous-titre :**
+On crée des sites, apps et systèmes qui génèrent des clients automatiquement.
+
+**Preuve :**
++1000 entreprises nous font confiance dans le monde
+
+**Offre :**
+Audit gratuit en 5 minutes
+
+---
+
+### 🔥 BOUTONS (TRÈS IMPORTANT)
+
+👉 WhatsApp (principal)
+https://api.whatsapp.com/send/?phone=224660919148&text=Bonjour%20BuzzMotion%2C%20je%20veux%20créer%20un%20site%20ou%20une%20application.%20Pouvez-vous%20m'aider%20%3F
+
+👉 Prendre rendez-vous
+https://calendly.com/buzzmotion/30min
+
+👉 Appeler directement
++224 660 91 91 48
+
+---
+
+## 🌐 3. CRÉDIBILITÉ
+
+Chez BuzzMotion, nous construisons des systèmes qui :
+
+* attirent des clients
+* automatisent votre business
+* génèrent des revenus
+
+Nous accompagnons des entreprises partout dans le monde.
+
+---
+
+## ⚙️ 4. SERVICES
+
+* Création de sites web
+* Applications mobiles
+* Automatisation digitale
+* Conseil stratégique gratuit
+* Support 24h/24
+
+---
+
+## 🚀 5. AVANTAGES
+
+* Gagnez du temps
+* Automatisez vos tâches
+* Augmentez vos ventes
+* Support 24/7
+* Solutions sur mesure
+
+---
+
+## 🔄 6. PROCESSUS
+
+1. Contact rapide
+2. Analyse
+3. Création
+4. Livraison
+5. Suivi
+
+---
+
+## 💳 7. TARIFS
+
+Création : à partir de 100€
+
+Puis : **10€/mois**
+
+✔️ Serveurs
+✔️ Maintenance
+✔️ Mises à jour
+✔️ Support
+
+---
+
+## ⭐ 8. AVIS CLIENTS
+
+“Service rapide et efficace, j’ai gagné plus de clients.”
+
+“Automatisation parfaite, je gagne du temps chaque jour.”
+
+“Très professionnel, je recommande.”
+
+---
+
+## 🧑‍💼 9. ÉQUIPE
+
+👉 Ajoute ici les photos de ton équipe
+👉 Ajoute une courte description pour chaque personne
+
+---
+
+## 🤝 10. PARTENAIRES
+
+**+1000 entreprises nous font confiance**
+
+👉 Ajouter un défilement de logos (carousel)
+
+Exemple :
+
+* Marques e-commerce
+* Restaurants
+* Startups
+
+---
+
+## ✍️ 11. LAISSER UN AVIS
+
+Votre avis compte.
+
+👉 Bouton : Laisser un avis
+
+---
+
+## 📲 12. RÉSEAUX SOCIAUX
+
+WhatsApp :
+https://api.whatsapp.com/send/?phone=224660919148&text=Bonjour%20BuzzMotion%2C%20je%20veux%20créer%20un%20site%20ou%20une%20application.%20Pouvez-vous%20m'aider%20%3F
+
+LinkedIn :
+https://www.linkedin.com/in/buzzmotion/
+
+Facebook :
+https://www.facebook.com/BuzzMotion
+
+X :
+https://x.com/BuzzMotion43493
+
+---
+
+## 🔥 13. CTA FINAL
+
+Combien de clients perdez-vous chaque jour ?
+
+👉 Contactez-nous maintenant
+
+* WhatsApp
+* Rendez-vous
+* Appel
+
+---
+
+## 🦶 14. FOOTER
+
+BuzzMotion
+Solutions digitales modernes
+
+Contact : +224 660 91 91 48
+
+Mail: [BuzzMotion@proton.me](mailto:BuzzMotion@proton.me)
+
+© 2026 BuzzMotion
+
+---
+
+# 🔥 CONSEILS IMPORTANTS
+
+* Mets WhatsApp visible partout
+* Ajoute des boutons après chaque section
+* Utilise des images réelles (équipe + clients)
+* Ajoute animation logos partenaires
+* Ajoute avis clients visibles
+
+---
+
+# 🚀 OBJECTIF
+
+👉 Transformer visiteurs → clients
+👉 Générer des contacts WhatsApp
+👉 Signer tes premiers clients rapidement
+
+---
+
+# ⚠️ SI TU AS OUBLIÉ QUELQUE CHOSE
+
+* ajoute plus d’avis clients
+* améliore les images
+* rends les boutons visibles
+* simplifie le message
+
+---
+
+# 🔥 TU ES PRÊT
+
+Tu peux copier-coller tout ça dans ton outil.
+
+Ton site peut maintenant :
+👉 attirer
+👉 convaincre
+👉 convertir
