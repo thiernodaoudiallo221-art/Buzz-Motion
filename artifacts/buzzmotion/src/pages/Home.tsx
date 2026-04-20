@@ -354,9 +354,9 @@ export default function Home() {
           
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
             {[
-              { img: teamImg1, name: "Elhadj Bah", role: "CEO & Fondateur" },
-              { img: teamImg2, name: "Mamadou Diallo", role: "Développeur Web" },
-              { img: teamImg3, name: "Aissatou Barry", role: "Stratège Digitale" },
+              { img: teamImg1, name: "Thierno Daou Diallo", role: "CEO & Fondateur" },
+              { img: teamImg2, name: "Boubacar Bah", role: "Développeur Web" },
+              { img: teamImg3, name: "Ibrahima Souadou Barry", role: "Stratège Digitale" },
               { img: teamImg4, name: "Fatoumata Camara", role: "Designer UX/UI" },
               { img: teamImg5, name: "Ibrahima Sow", role: "Développeur Mobile" },
               { img: teamImg6, name: "Mariama Diallo", role: "Chargée de Clientèle" }
