@@ -1,0 +1,12 @@
+[build]
+  command = "corepack enable && corepack prepare pnpm@10.26.1 --activate && pnpm install --frozen-lockfile && PORT=3000 BASE_PATH=/ NODE_ENV=production pnpm --filter @workspace/buzzmotion run build"
+  publish = "artifacts/buzzmotion/dist/public"
+
+[build.environment]
+  NODE_VERSION = "20"
+  NPM_FLAGS = "--version"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
