@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "corepack enable && corepack prepare pnpm@10.26.1 --activate && pnpm install --frozen-lockfile",
+  "buildCommand": "pnpm --filter @workspace/api-server run build",
+  "framework": null,
+  "functions": {
+    "api/index.mjs": {
+      "includeFiles": "artifacts/api-server/dist/**"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api" }
+  ]
+}
