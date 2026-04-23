@@ -387,7 +387,7 @@ export default function Home() {
               <SiWhatsapp className="w-5 h-5" /> Démarrer maintenant
             </motion.a>
             <motion.a whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.97 }}
-              href="https://calendly.com/buzzmotion/30min" target="_blank" rel="noopener noreferrer"
+              href="https://calendly.com/buzzmotion-audit-gratuit-30-min/30min" target="_blank" rel="noopener noreferrer"
               className="flex items-center gap-2.5 border border-white/15 hover:border-yellow-500/40 text-white font-semibold rounded-full px-10 h-14 text-base hover:bg-yellow-500/5 transition-all"
             >
               <Calendar className="w-5 h-5" /> Prendre rendez-vous
@@ -695,7 +695,7 @@ export default function Home() {
                 >
                   <SiWhatsapp className="w-6 h-6" /> Réserver maintenant
                 </motion.a>
-                <a href="https://calendly.com/buzzmotion/30min" target="_blank" rel="noopener noreferrer"
+                <a href="https://calendly.com/buzzmotion-audit-gratuit-30-min/30min" target="_blank" rel="noopener noreferrer"
                   className="flex items-center justify-center gap-3 border border-white/12 hover:border-yellow-500/30 text-white font-semibold rounded-2xl h-16 text-base hover:bg-yellow-500/4 transition-all">
                   <Calendar className="w-5 h-5" /> Planifier un appel
                 </a>
@@ -813,7 +813,7 @@ export default function Home() {
                 className="flex items-center gap-2.5 bg-[#25D366] text-white font-bold rounded-full px-12 h-16 text-lg shadow-[0_0_50px_rgba(37,211,102,0.45)] transition-all">
                 <SiWhatsapp className="w-6 h-6" /> Écrire sur WhatsApp
               </motion.a>
-              <motion.a whileHover={{ scale: 1.03 }} href="https://calendly.com/buzzmotion/30min" target="_blank" rel="noopener noreferrer"
+              <motion.a whileHover={{ scale: 1.03 }} href="https://calendly.com/buzzmotion-audit-gratuit-30-min/30min" target="_blank" rel="noopener noreferrer"
                 className="flex items-center gap-2.5 border border-white/15 hover:border-yellow-500/35 text-white font-semibold rounded-full px-12 h-16 text-lg hover:bg-yellow-500/5 transition-all">
                 <Calendar className="w-5 h-5" /> Réserver un appel
               </motion.a>
